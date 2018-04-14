@@ -1,0 +1,30 @@
+.table {
+    color:rgba(255, 255, 255, 0.638);
+    background: rgb(243, 244, 247);
+     height: 200px;
+     background-image: url(../images/87633.jpg);
+   background-position-x: -800px;
+   background-position-y: 200px
+    
+}
+h3 {
+    color:rgba(202, 90, 30, 0.734);
+}
+
+.jumbotron {
+    background-image:url(../images/train.jpg);
+    color:rgb(116, 114, 65);
+}
+
+.panel-heading {
+    background-image: url(../images/train.jpg);
+   color:white;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+#submit {
+    background-color:rgb(136, 81, 167)
+}
+.form-group{
+    background-image: url(../images/train.jpg);
+}
